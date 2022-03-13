@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dot-env": "^0.0.1",
+    "express": "^4.17.3",
+    "googleapis": "^96.0.0"
+  }
+}
